@@ -3,4 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Esta es una actualización de las chungas!
+## Esta es una actualización desde Github!
